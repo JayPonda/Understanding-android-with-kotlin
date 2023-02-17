@@ -1,0 +1,195 @@
+<resources>
+    <!-- app level strings-->
+    <string name="app_name">LAndroid</string>
+
+    <!-- menu strings -->
+
+    <!-- intent type demo -->
+    <string name="intent_demo">Intent type demo</string>
+    <string name="explicit_indent">Explicit intent</string>
+    <string name="implicit_intent">Implicit intent</string>
+    <string name="intent_result"> Intent result</string>
+
+    <!-- notification demo -->
+    <string name="notification_demo">Notification demo</string>
+    <string name="notification">Notification</string>
+
+    <!-- alert box demo -->
+    <string name="alert_box_demo">AlertBox demo</string>
+    <string name="alert_dialog">AlertDialog</string>
+    <string name="custom_dialog">Custom AlertDialog</string>
+    <string name="activity_life_cycle">Activity Life-Cycle</string>
+    <string name="fragment_life_cycle_demo">fragment life-Cycle </string>
+
+    <!-- bottom sheet demo -->
+    <string name="bottom_sheet_demo">Bottom sheet demo</string>
+    <string name="bottom_sheet">Bottom sheet</string>
+    <string name="persistent_bottom_sheet">PersistentBottomSheet</string>
+
+    <!-- layouts demo -->
+    <string name="scrollable_layouts_demo">Scrollable view demo</string>
+    <string name="list_layout">Listview</string>
+    <string name="base_adapter">Listview BaseAdapter</string>
+    <string name="base_adapter_with_viewholder">Listview BaseAdapter holder</string>
+    <string name="recyclerview_v_linear_h_template">Vertical linear recyclerview 1</string>
+    <string name="recyclerview_v_linear_v_template">Vertical linear recyclerview 2</string>
+    <string name="recyclerview_h_linear_b_template">Horizontal linear recyclerview</string>
+    <string name="recyclerview_v_grid_b_template">Grid recyclerview</string>
+    <string name="recyclerview_v_staged_b_template">Staged recyclerview</string>
+    <string name="recyclerview_v_multiview_hv_template">Multi viewed Recyclerview</string>
+    <string name="recyclerview_hv_multi_nested_view_b_template">Nested RecyclerView</string>
+
+    <!-- background and async task-->
+    <string name="background_async_task_demo">Background and Async task demo</string>
+    <string name="threading">Threading</string>
+    <string name="async_task">AsyncTask</string>
+    <string name="broadcast_receiver">BroadcastReceiver</string>
+
+    <!-- storage demo -->
+    <string name="storage_demo">Data storage demo</string>
+    <string name="shared_preferences">SharedPreferences</string>
+    <string name="SQLLITE_database">SqlLite </string>
+    <string name="show_image_from_internal_storage">Image in internal storage</string>
+
+    <!-- shared strings -->
+
+    <!-- activity strings -->
+
+
+    <string name="Welcome_msg">Nice to meet you!!!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_your_username">enter your username</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="copied_text_will_show_here">copied text will show here</string>
+    <string name="enter_your_text">enter your text</string>
+    <string name="copy">copy</string>
+    <string name="exit">exit</string>
+    <string name="press_this_button">Enter your name and age\nYou can navigate to next screen\nBy pressing this button </string>
+    <string name="go_next">Next</string>
+    <string name="new_intent">New Intent</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="browser">browser</string>
+    <string name="go_back">go back</string>
+    <string name="Index">all the activities are for demo, you can try</string>
+    <string name="activity_life_cycle_title">to simulate the %1$s life cycle, \npress the back button</string>
+    <string name="enter_to_edit_the_name">enter to edit the name</string>
+    <string name="infotochange">to share the deta to previous intent you need to edit this contents here and then send submit</string>
+    <string name="you_can_implicit_intent_from_here">You can implicit intent from here</string>
+    <string name="previous">previous</string>
+    <string name="cancle">Cancle</string>
+    <string name="save">Save</string>
+    <string name="here_is_the_implimentation_of_baseadapter_class_demo_below_list_is_created_with_baseadapter">here is the implimentation of baseadapter class demo. below list is created with baseadapter</string>
+    <string name="this_is_scrollview_containing_list_view">this is scrollview containing list view</string>
+    <string name="list_image_is_shown_here">list image is shown here</string>
+    <string name="file">file</string>
+    <string name="here_button_is_given_to_custom_alert_box">Here button is given to custom alert box</string>
+    <string name="text_alert_box">Text Alert Box</string>
+    <string name="full_name">Full Name:</string>
+    <string name="alertimage">alertImage</string>
+    <string name="image_of_Ice_cream">image of Ice_cream</string>
+    <string name="this_activity_is_simulate_the_recyclear_view_by_the_imlimenting_cardview">This Activity is simulate the Recyclear View By the Imlimenting CardView</string>
+    <string name="vLinear_desc">this is the example of Linear layout with recycler view</string>
+    <string name="vStaged_desc">this is the example of staged layout with recycler view</string>
+    <string name="start_counter">start Counter</string>
+    <string name="end_counter">end Counter</string>
+    <string name="progressNumber">%1$02d</string>
+
+    <string name="start_task">start task</string>
+    <string name="task_completed">task completed</string>
+    <string name="openintentservice">OpenIntentService</string>
+    <string name="intentservicestring">this activity is demonstrate the use of intent service. you need to check log for more information</string>
+
+    <string name="battery_level">Battery level: %d</string>
+    <string name="click_to_notify">click to notify</string>
+    <string name="topic_name">Topic name</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="message_description">description</string>
+    <string name="previous_word_1_s">Previous word:\n%1$s</string>
+    <string name="your_new_word">your new word</string>
+    <string name="show">Show</string>
+
+    <string name="delete">delete</string>
+    <string name="set_auto_load">Set Auto Load</string>
+    <string name="fact_number_d">fact number %1$d</string>
+    <string name="yummy_fact_title">Yummy Fact title</string>
+    <string name="title">title</string>
+    <string name="delectable_and_sweet_facts">Delectable and Sweet Facts</string>
+    <string name="facts">facts</string>
+    <string name="chocolaty_colors_and_fruity_photos">chocolaty colors and fruity photos</string>
+    <string name="choose_from_gallery">choose from galary</string>
+    <string name="preview_Ice_cream_image">Preview Ice_cream Image</string>
+    <string name="remove_Ice_cream_image">Remove Ice_cream Image</string>
+    <string name="here_you_can_enter_the_delicious_ice_cream_fact">here you can enter the delicious ice-cream fact</string>
+    <string name="results">previous record:\nid: %1$d \ntitle: %2$s \ndescription: \n%3$s</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="bottomsheet">BottomSheet</string>
+    <string-array name="languages">
+        <item>go</item>
+        <item>python</item>
+        <item>javascript</item>
+        <item>c++</item>
+        <item>c</item>
+        <item>java</item>
+        <item>kotlin</item>
+        <item>rust</item>
+        <item>ruby</item>
+        <item>php</item>
+        <item>purl</item>
+        <item>matlab</item>
+        <item>c#</item>
+        <item>typescript</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="demo_items">demo items</string>
+    <string name="demo_bottom_sheet_items">Demo Bottom Sheet Items</string>
+    <string name="nestedRecyclerViewDesc">here is the demo of nested recycler view</string>
+    <string name="RecyclerViewDesc">here is the demo of single viewed recycler view</string>
+    <string name="multiViewRecyclerViewDesc">here is the demo of multiView recycler view</string>
+    <string name="testString">abcdefghijkl_mnopqrstuvwxyz</string>
+    <string name="textWithSize">%1$s (%2$d)</string>
+    <string name="layout_demo">Layout demo</string>
+
+    <string name="select_an_image_from_the_device">select an image from the device</string>
+    <string name="working_with_internal_storage">Working with internal storage</string>
+
+    <string name="pause_counter">Pause counter</string>
+    <string name="restart_counter">restart counter</string>
+    <string name="resume_counter">resume counter</string>
+    <string name="staged_recyclerview">staged RecyclerView</string>
+    <string name="click_to_notify_controlled_message">click to notify controlled message</string>
+    <string name="expandable">expandable</string>
+    <string name="loram_string">this is Lorem text\n\n Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+    <string name="gridLayoutDiscription">this is the example of grid layout with recycler view</string>
+    <string name="sidebar_image">sidebar_image</string>
+    <string name="mobile_application_demos">Mobile application demos</string>
+    <string name="practical_library">practical library</string>
+    <string name="open_nav">navigation</string>
+    <string name="close_nav">close navigation</string>
+    <string name="short_message">short message</string>
+    <string name="descriptive_message">Descriptive message</string>
+    <string name="clear_all_notification">clear all notification</string>
+    <string name="show_descriptive_message">show descriptive message</string>
+    <string name="show_timed_notification">show timed notification</string>
+    <string name="add_tap_action">add tap action</string>
+    <string name="update_on_change">update on change</string>
+    <string name="show_last_notification_only">show last notification only</string>
+    <string name="show_additional_image">show additional image</string>
+    <string name="show_image_expandable">show image expandable</string>
+    <string name="expandable_listview">Expandable listview</string>
+    <string name="expand_colleps_arrow_for_list">expand/colleps arrow for list</string>
+    <string name="back_to_home">back to home</string>
+    <string name="go_home_in_back_press">go home in back press</string>
+    <string name="go_to_home_with_back_button_press">go to home with back button press</string>
+    <string name="settings">settings</string>
+
+
+</resources>

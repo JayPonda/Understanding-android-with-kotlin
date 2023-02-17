@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".fragments.leaves.InternalStorageImageFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:padding="5dp"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/select_an_image_from_the_device" />
+
+    <RelativeLayout
+        android:id="@+id/imagePreviewLayout"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginTop="5dp"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/ErrorMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:textColor="#FF0000"
+            android:textSize="12sp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/Ice_creamPreviewImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/ErrorMessage"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:contentDescription="@string/preview_Ice_cream_image"
+            android:scaleType="fitCenter"
+            android:src="@drawable/preview_img"
+            tools:ignore="ImageContrastCheck" />
+
+        <ImageView
+            android:id="@+id/removeIce_creamImage"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignTop="@+id/Ice_creamPreviewImage"
+            android:layout_alignEnd="@+id/Ice_creamPreviewImage"
+            android:background="@drawable/round_border"
+            android:contentDescription="@string/remove_Ice_cream_image"
+            android:padding="5dp"
+            android:src="@drawable/ic_baseline_delete_24"
+            app:tint="@color/purple_500" />
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/ChoosePhotoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/choose_from_gallery" />
+
+
+</LinearLayout>

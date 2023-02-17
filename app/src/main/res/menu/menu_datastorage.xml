@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    @string/storage_demo-->
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/OpenSharedPreferencesDemo"
+            android:title="@string/shared_preferences"/>
+        <item
+            android:id="@+id/OpenSqlLiteDatabaseInteractionDemo"
+            android:title="@string/SQLLITE_database"/>
+        <item
+            android:id="@+id/OpenDisplayImageDemo"
+            android:title="@string/show_image_from_internal_storage"/>
+    </group>
+</menu>

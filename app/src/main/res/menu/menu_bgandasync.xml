@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    @string/background_async_task_demo-->
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/OpenThreadHandlerDemo"
+            android:title="@string/threading"/>
+        <item
+            android:id="@+id/OpenAsyncTaskDemo"
+            android:title="@string/async_task"/>
+        <item
+            android:id="@+id/OpenBroadcastReceiverDemo"
+            android:title="@string/broadcast_receiver"/>
+    </group>
+</menu>

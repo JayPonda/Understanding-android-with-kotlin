@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--@string/intent_demo-->
+    <group
+    android:checkableBehavior="single">
+        <item
+            android:id="@+id/OpenIntentDemo"
+            android:title="@string/explicit_indent"/>
+        <item
+            android:id="@+id/OpenImplicitIntentsDemo"
+            android:title="@string/implicit_intent"/>
+        <item
+            android:id="@+id/OpenIntentResultDemo"
+            android:title="@string/intent_result"/>
+    </group>
+</menu>

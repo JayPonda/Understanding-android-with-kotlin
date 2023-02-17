@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--@string/alert_box_demo-->
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/OpenAlertBox"
+            android:title="@string/alert_dialog"/>
+        <item
+            android:id="@+id/OpenCustomAlertBoxDemo"
+            android:title="@string/custom_dialog"/>
+        <item
+            android:id="@+id/OpenActivityLifeCycleDemo"
+            android:title="@string/activity_life_cycle"/>
+        <item
+            android:id="@+id/OpenFragmentLifeCycleDemo"
+            android:title="@string/fragment_life_cycle_demo"/>
+    </group>
+</menu>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single"
+        android:menuCategory="container">
+        <item
+            android:id="@+id/intent_demo"
+            android:icon="@drawable/intent_icon"
+            android:title="@string/intent_demo" />
+
+        <item
+            android:id="@+id/notification_demo"
+            android:icon="@drawable/ic_stat_call_white"
+            android:iconTint="@color/black"
+            android:title="@string/notification_demo" />
+
+        <item
+            android:id="@+id/alert_box_demo"
+            android:icon="@drawable/alertbox_icon"
+            android:title="@string/alert_box_demo" />
+
+        <item
+            android:id="@+id/bottom_sheet_demo"
+            android:icon="@drawable/bottom_sheet_icon"
+            android:title="@string/bottom_sheet_demo" />
+
+        <item
+            android:id="@+id/scrollable_layouts_demo"
+            android:icon="@drawable/layout_icon"
+            android:title="@string/scrollable_layouts_demo" />
+
+        <item
+            android:id="@+id/background_async_task_demo"
+            android:icon="@drawable/background_icon"
+            android:title="@string/background_async_task_demo" />
+
+        <item
+            android:id="@+id/storage_demo"
+            android:icon="@drawable/storage_icon"
+            android:title="@string/storage_demo" />
+    </group>
+</menu>

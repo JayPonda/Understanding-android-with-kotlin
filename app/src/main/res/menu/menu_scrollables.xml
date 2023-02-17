@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    @string/scrollable_layouts_demo-->
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/OpenLayoutDemo"
+            android:title="@string/list_layout"/>
+        <item
+            android:id="@+id/OpenExpandableListViewDemo"
+            android:title="@string/expandable_listview"/>
+        <item
+            android:id="@+id/OpenBaseAdapterHomeDemo"
+            android:title="@string/base_adapter"/>
+        <item
+            android:id="@+id/OpenBaseAdapterHomeViewHolderDemo"
+            android:title="@string/base_adapter_with_viewholder"/>
+        <item
+            android:id="@+id/OpenRecyclerViewDemoV1"
+            android:title="@string/recyclerview_v_linear_h_template"/>
+        <item
+            android:id="@+id/openRecyclerViewDemoV2"
+            android:title="@string/recyclerview_v_linear_v_template"/>
+        <item
+            android:id="@+id/openRecyclerViewDemoV3"
+            android:title="@string/recyclerview_h_linear_b_template"/>
+        <item
+            android:id="@+id/OpenGridLayoutDemo"
+            android:title="@string/recyclerview_v_grid_b_template"/>
+        <item
+            android:id="@+id/OpenStagedLayoutDemo"
+            android:title="@string/recyclerview_v_staged_b_template"/>
+        <item
+            android:id="@+id/OpenMultiViewRecyclerViewDemo"
+            android:title="@string/recyclerview_v_multiview_hv_template"/>
+        <item
+            android:id="@+id/OpenNestedRecyclerViewDemo"
+            android:title="@string/recyclerview_hv_multi_nested_view_b_template"/>
+    </group>
+
+</menu>

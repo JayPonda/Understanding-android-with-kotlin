@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule projects/infosys springboard/projects/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule projects/infosys springboard/projects/HelloWorld/app/src/main/res/layout/layout_demo.xml" value="0.11041666666666666" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule projects/infosys springboard/projects/HelloWorld/app/src/main/res/layout/listview_demo.xml" value="0.25" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/drawable/boarder.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/drawable/bottom_sheet_corner.xml" value="0.248" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/drawable/bottom_sheet_layout.xml" value="0.248" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/drawable/gradent_bg.xml" value="0.248" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/drawable/styles.xml" value="0.1215" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/font/roboto_medium.xml" value="0.23001282599401454" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/layout/activity_bottom_sheet_demo.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/layout/bottom_sheet_template.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/layout/fragment_bottom_sheet_fragment.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/HelloWorld/app/src/main/res/layout/item_template.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/drawable/boarder.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/drawable/bottom_sheet_corner.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/drawable/gradent_bg.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/drawable/ic_stat_call_white.xml" value="0.1225" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/drawable/transperant_border.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout-sw600dp/activity_stagged_layout_demo.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_display_image_demo.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_message_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_multi_view_recycler_view_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_nested_recycler_view_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_persistant_bottom_sheet_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_recycler_view_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_sql_lite_database_interaction_demo.xml" value="0.1936725096194955" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_stagged_layout_demo.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/activity_thread_handler_demo.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/cardview_item_template.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/child_item_template.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/custom_alertbox_template.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/implicit_intents_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/intent_result_landing_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/intent_shared_call_demo.xml" value="0.20478837109876016" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/item_new_template.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/item_template.xml" value="0.20478837109876016" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/layout_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/old_cardview_item_template.xml" value="0.16" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/Helloworld_project/HelloWorld/app/src/main/res/layout/parent_item_template.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2415" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/drawable/boarder.xml" value="0.1225" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/drawable/bottom_sheet_layout.xml" value="0.149" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/drawable/gradent_bg.xml" value="0.1215" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.243" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1225" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/drawable/round_border.xml" value="0.243" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_async_task_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_bottom_sheet_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_brodcast_receiver_demo.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_intent_landing.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_intent_lending.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_intent_result_landing_demo.xml" value="0.25" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_intent_service_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_life_cycle_demo.xml" value="0.2" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_message_demo.xml" value="0.2" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_recycler_view_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_shared_preferances_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_sql_lite_database_interaction_demo.xml" value="0.39183673469387753" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/activity_thread_handler_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/baseadapter_home_demo.xml" value="0.264" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/boarder.xml" value="0.1" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/bottom_sheet_template.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/cardview_item_template.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/copy_text_demo.xml" value="0.25" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/custom_alert_box_demo.xml" value="0.20521590423257802" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/custom_alertbox_template.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/implicit_intents_demo.xml" value="0.24895833333333334" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/intent1_demo.xml" value="0.24895833333333334" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/intent2_demo.xml" value="0.24895833333333334" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/intent_call_demo.xml" value="0.2" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/intent_result_landing_demo.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/intent_shared_call_demo.xml" value="0.16" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/item_template.xml" value="0.4" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/layout_demo.xml" value="0.25" />
+        <entry key="..\:/programs/mobile_dev/core_mobile_dev/individule_projects/infosys_springboard/projects/HelloWorld/app/src/main/res/layout/old_cardview_item_template.xml" value="0.15781710914454278" />
+        <entry key="..\:/programs/zational/mobile_dev/core_mobile_dev/HelloWorld/app/src/main/res/drawable/gradent_bg.xml" value="0.1225" />
+        <entry key="..\:/programs/zational/mobile_dev/core_mobile_dev/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/programs/zational/mobile_dev/core_mobile_dev/HelloWorld/app/src/main/res/layout/listview_demo.xml" value="0.20796890184645286" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
